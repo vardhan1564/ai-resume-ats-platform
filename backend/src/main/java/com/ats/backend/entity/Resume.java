@@ -27,6 +27,12 @@ public class Resume {
 
     private String targetJobTitle;
 
+    private String linkedinUrl;
+
+    private String githubUrl;
+
+    private String portfolioUrl;
+    
     @Column(columnDefinition = "TEXT")
     private String professionalSummary;
 
