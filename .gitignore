@@ -1,0 +1,9 @@
+# Master .gitignore
+node_modules/
+dist/
+target/
+.env
+.env.local
+application-secret.properties
+.vscode/
+.idea/
